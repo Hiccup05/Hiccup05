@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Bipin Paudel</h1>
 <h3 align="center">A passionate full stack developer from nepal</h3>
 
