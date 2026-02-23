@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bipin Paudel</h1>
 <h3 align="center">A passionate full stack developer from nepal</h3>
 
-- 🔭 I’m currently working on **Clinic management system**
+- 🔭 DSA, Projects and Public learning
 
 - 📫 How to reach me **paudelbipin05@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/beepin-paudel/</h3>
+<h3 align="left">Leetcode: https://leetcode.com/u/GfJOGeDWry//</h3>
 <p align="left">
 </p>
 
