@@ -4,10 +4,9 @@
 - 🔭 DSA, Projects and Public learning
 
 - 📫 How to reach me **paudelbipin05@gmail.com**
+- Connect with me: **https://www.linkedin.com/in/beepin-paudel/**
+- Leetcode: **https://leetcode.com/u/GfJOGeDWry/**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/beepin-paudel/</h3>
-<h3 align="left">Leetcode: https://leetcode.com/u/GfJOGeDWry//</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
